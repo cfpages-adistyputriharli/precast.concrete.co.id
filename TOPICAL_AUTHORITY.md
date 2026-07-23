@@ -90,4 +90,3 @@ The path labels are recommendations, not an instruction to move existing URLs wi
 3. Add product-system decision clusters linked bidirectionally with their commercial hubs.
 4. Add production, durability, and maintenance depth after qualified review and original evidence are available.
 5. Expand only when Search Console queries, sales questions, inspection findings, or documented projects reveal a distinct unmet intent.
-
